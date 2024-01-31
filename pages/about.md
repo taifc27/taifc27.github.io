@@ -8,8 +8,11 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You can call me Krishna. As much as I love earth-science🌎🪨 and astrophotography🪐, I love data too. I dabble in various datasets to deduce vital insights💡. In my profession🛢️🔥, formations speak in language of numbers, I am merely just an interpreter! 
 
+Armed with programming languages and analytical tools🛠️📈, I navigate through the digital realm, sculpting stories that unveil patterns, predict trends, and guide data-informed decisions.
+
+I am astrophotgrapher, catch me on instagram to see which celestials I have met.
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
