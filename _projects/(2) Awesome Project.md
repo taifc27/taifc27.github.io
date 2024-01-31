@@ -1,20 +1,6 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Unveiling Massachusetts Schools
+tools: [Tableau, Data Analysis, Data Visualization]
+image: [https://media.licdn.com/dms/image/D5612AQHnUHh0uJh-ag/article-cover_image-shrink_720_1280/0/1706293828083?e=2147483647&v=beta&t=121iPtPRIkW0ZgB-xMDqZ_LkJ0QwikpNM2PhHAzFUMM]
+description: Created an interactive Dashboard in Tableau highlighting key performance metrics for 1,800+ of Massachusetts school systems allowing at-a-glance understanding of the entire schools. Data-informed recommendations were provided to help schools' prductivity.
 ---
-
-# The Movies Project
-
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
-
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
