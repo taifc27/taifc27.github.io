@@ -1,7 +1,7 @@
 ---
-name: Dummy Project
-tools: [Ignore me]
-image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Steam Game Data Analytics
+tools: [R, MySQL, Tableau]
+image: [https://raw.githubusercontent.com/Krishna1594/EDA-Steam-game-data/main/1700101644326.jpg]
+description: The purpose of this project is to identify game development opportunities and sales. Extracted & analysed steam game data from the game reviews and publisher's comments in the dataset comprising of 71700games.
+external_url: [https://github.com/Krishna1594/EDA-Steam-game-data]
 ---
