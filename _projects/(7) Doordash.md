@@ -1,5 +1,5 @@
 ---
-name: Unleashing Flavorful Insights: Excel-ed Delivery!
+name: Unleashing Flavorful Insights: Excel-ed Delivery
 tools: [Excel, Article Writing]
 image: https://i.postimg.cc/FsL5RtNM/door.png
 description: Analyzed 2,000+ rows of customer behavioral marketing data in Excel using VLOOKUPS, Pivot Tables, and charts to evaluate campaign success levels.
