@@ -13,7 +13,7 @@ description: I know there is black gold inside our earth's crust, but how often 
 
 I don't exactly remember when I got a notification regarding Earth's big brother. Apparently, he decided to meet for a whole month. If you don't believe me you better follow [Nasa](https://science.nasa.gov/jupiter/)
 
-Just scroll down a little bit and you will see whom I'm talking about!
+Just scroll down a little bit and you will see who I'm talking about!
 
 ![preview](https://i.postimg.cc/rsVh4FZp/1664785226731.jpg)
 
