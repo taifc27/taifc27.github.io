@@ -23,7 +23,7 @@ Do visit my [instagram](https://www.instagram.com/p/CjOdXQyB72EgLBIrKWvtmz5xR-b4
 
 ## Just a touch!
 
-Well in early days of my astrophotography, I captured some bad and unclear pictures. To my eyes, when I looked into the eyepiece, the view was unparalleled. Did you know our eyes are the best cameras? like each eye has ~576MP or resolution. For a comparison, your Iphone only has 12MP camera. That's stunning clarity our eyes have. So, protect your eyes. Eat lot of carrots!🤗
+Well in early days of my astrophotography, I captured some bad and unclear pictures. To my eyes, when I looked into the eyepiece, the view was unparalleled. Did you know our eyes are the best cameras? like each eye has a resolution of 576MP. For a comparison, your Iphone only has 12MP camera. That's stunning clarity, our eyes have. So, protect your eyes. Eat lot of carrots!🤗
 
 Hence, I wanted to take some quality pictures. I used data from my hobby. See how far I have gazed into the skies!
 
