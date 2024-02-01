@@ -5,7 +5,7 @@ image: https://i.postimg.cc/FsL5RtNM/door.png
 description: Analyzed 2,000+ rows of customer behavioral marketing data in Excel using VLOOKUPS, Pivot Tables, and charts to evaluate campaign success levels.
 ---
 
-![preview](https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png)
+![preview](https://i.postimg.cc/BbbnVJLY/Screenshot-2024-01-18-192909.png)
 
 # Unleashing Flavorful Insights: Excel-ed Delivery!
 
