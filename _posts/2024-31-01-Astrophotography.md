@@ -27,7 +27,7 @@ Well in early days of my astrophotography, I captured some bad and unclear pictu
 
 Hence, I wanted to take some quality pictures. I used data from my hobby. See how far I have gazed into the skies!
 
-![preview](https://i.postimg.cc/d0MXNFSq/Duration-vs-Distance-Plot.jpg)
+![preview](https://i.postimg.cc/2S0jqrr8/Gazed.png)
 
 I did a mini-project on my hobby. If you want to know more how I improved my astrophotography, you should visit my [github](https://github.com/Krishna1594/Astrophotography)
 
