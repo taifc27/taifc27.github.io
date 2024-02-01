@@ -13,11 +13,13 @@ description: I know there is black gold inside our earth's crust, but how often 
 
 I don't exactly remember when I got a notification regarding Earth's big brother. Apparently, he decided to meet for a whole month. If you don't believe me you better follow [Nasa](https://science.nasa.gov/jupiter/)
 
-If you dont believe me then just scroll down a little bit and you will see about whom I'm talking about!
+If you dont believe me then just scroll down a little bit and you will see whom I'm talking about!
 
 ![preview](https://i.postimg.cc/rsVh4FZp/1664785226731.jpg)
 
-Yes! that's Jupiter and 5 moons and 4 (Io, Ganymede, Europa and Callisto) are visible in this picture. Do visit my [instagram](https://www.instagram.com/p/CjOdXQyB72EgLBIrKWvtmz5xR-b4Emdekv0uL80/?hl=en) to know more!
+Yes! that's Jupiter and 5 moons and 4 (Io, Ganymede, Europa and Callisto) are visible in this picture. This picture was taken in October 2022 though.
+
+Do visit my [instagram](https://www.instagram.com/p/CjOdXQyB72EgLBIrKWvtmz5xR-b4Emdekv0uL80/?hl=en) to know more!
 
 ## Just a touch!
 
