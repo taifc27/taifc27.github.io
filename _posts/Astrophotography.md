@@ -11,7 +11,7 @@ description: I know there is black gold inside our earth's crust, but how often 
 
 ## That sheer tranquility just amazes me!
 
-I don't exactly remember when I got a notification regarding Earth's big brother. Apparently, he decided to meet for a whole month. If you don't believe me you better follow ![Nasa](https://science.nasa.gov/jupiter/)
+I don't exactly remember when I got a notification regarding Earth's big brother. Apparently, he decided to meet for a whole month. If you don't believe me you better follow [Nasa](https://science.nasa.gov/jupiter/)
 
 If you dont believe me then just scroll down a little bit and you will see about whom I'm talking about!
 
@@ -27,6 +27,6 @@ Hence, I wanted to take some quality pictures. I used data from my hobby. See ho
 
 ![preview](https://i.postimg.cc/d0MXNFSq/Duration-vs-Distance-Plot.jpg)
 
-I did a mini-project on my hobby. If you want to know more how I improved my astrophotography, you should visit my ![github](https://github.com/Krishna1594/Astrophotography)
+I did a mini-project on my hobby. If you want to know more how I improved my astrophotography, you should visit my [github](https://github.com/Krishna1594/Astrophotography)
 
 Let me know what you think!
