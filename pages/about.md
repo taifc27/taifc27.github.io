@@ -13,10 +13,6 @@ You can call me Krishna. As much as I love earth-science🌎🪨 and astrophotog
 Armed with programming languages and analytical tools🛠️📈, I navigate through the digital realm, sculpting stories that unveil patterns, predict trends, and guide data-informed decisions.
 
 I am astrophotgrapher, catch me on instagram to see which celestials I have met.
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
 
 <div class="row">
 {% include about/timeline.html %}
