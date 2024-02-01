@@ -12,7 +12,7 @@ You can call me Krishna. As much as I love earth-science🌎🪨 and astrophotog
 
 Armed with programming languages and analytical tools🛠️📈, I navigate through the digital realm, sculpting stories that unveil patterns, predict trends, and guide data-informed decisions.
 
-I am astrophotgrapher, catch me on instagram to see which celestials I have met.
+I am an astrophotgrapher, catch me on instagram to see which celestials I have met.
 
 <div class="row">
 {% include about/timeline.html %}
