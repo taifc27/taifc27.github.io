@@ -1,17 +1,29 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: MLWD Field Professional-II, Halliburton, India
+  from: 2019
+  to: 2023
+  description: Lead MLWD field professional with hands-on experience working with variety of fromation logging sensors;
+               gamma ray, azimuthal resistivity, density-neutron, formation pressure testing and acoustic sensors.
+               Supervised and mentored a team of 2-5 trainees and associate engineers during field operations on both onshore and offshore oil rigs.
+               Deployed Sonic Logging services for a client for the first time in the field of Mumbai High-Offshore, 
+               contributing to the development of the reservoirs with estimated 9700 Million Metric Tons (MMT) of oil equivalent of gas.
+               Practiced Environment, Safety and Governance (ESG) procedures in the field; ensured safe and efficient work practices, 
+               technical data-driven insights and enable good professional ethics.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: MWD Field Engineer, Leader Engineering (Halliburton Contract)
+  from: 2017
+  to: 2019
+  description: Tested, built and assembled tools ensuring survey quality (survey management) needed to drill deviated wells successfully and fulfill formation evaluation needs.
+               Worked with various data acquisition techniques such as Positive Pulse Telemetry and Electromagnetic Telemetry (EM).
+               Maintained data quality (handled missing data and safe storage of well-data) and well-log quality as per clients’ specification.
+               Streamlined data collection processes, enhancing accuracy and accessibility of critical operational information.
+
+- title: Masters of Science, Texas A&M University-Kingvsville
+  from: 2016
+  to: 2017
+  description: Specialized in Natural Gas Engineering. Co-founded American Association of Drilling Engineers -
+               TAMUK Student Chapter in 2016 and grabbed best student community service award. 
+
+- title: Bachelor of Technology, Jawaharlal Nehru Technological University-Kakinada
+  from: 2011
+  to: 2015
+  description: Specialized in Petroleum Engineering and was voted as class prepresentative consecutively from 2011-2014.
