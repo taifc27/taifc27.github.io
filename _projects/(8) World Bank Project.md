@@ -161,7 +161,7 @@ This concludes my analysis. Furthermore as I looked into the dataset, I found ou
 
 MySQL has proved to be very efficient in sorting, filtering and querying throughout this dataset. Actually, I was keen enough to look how much time MySQL took to import this data. It took 18.65 seconds to import whole dataset while all my queries were happeining in an instant, ~0.063 seconds.
 
-One feeling here is that, I can find a workaround and maybe reduce the length of codes and execution time here in the end. The best part of my analysis here was ALTER TABLE and UPDATE to index columns which helped me to sort and aggregate fields in the dataset. Without them, the results were ambigious. Indexing does improve the effeciency and reliability of the code.
+One feeling here is that, I can find a workaround and maybe reduce the length of codes and execution time here in the end. The best part of my analysis here was ALTER TABLE and UPDATE to format and index columns which helped me to sort and aggregate fields in the dataset. Without them, the results were ambigious. Indexing does improve the effeciency and reliability of the code.
 
 This project is avaiable on my Github profile. I am open to feedback and any suggestions that you think will help me in making this project better.
 
