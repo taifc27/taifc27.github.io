@@ -165,21 +165,23 @@ One feeling here is that, I can find a workaround and maybe reduce the length of
 
 There are lot of questions in my mind about how Sri Lanka in 2024 will cope ahead with massively unbelievable fluctuations of inflation rates; in 2022 ~45% inflation rate and then by September 2023 it dropped to 6.5% with all-time record low of 0.6% in December 2023. Further analysis can be done to analyze the expenditure and payments from each grant within the government of Sri Lanka. That would shred actual light on where they are lacking. 
 
+This project is avaiable on my Github profile. I am open to feedback and any suggestions that you think will help me in making this project better.
+
 ## Sources
 
-Data: World Bank - [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data).
+Data: World Bank - [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data)
 
-(1) World Bank - [](https://projects.worldbank.org/en/projects-operations/projects-summary?lang=en&countrycode_exact=LK).
+(1) World Bank - [link](https://projects.worldbank.org/en/projects-operations/projects-summary?lang=en&countrycode_exact=LK)
 
-(2) Observer Research Foundation - [](https://www.orfonline.org/research/understanding-the-economic-issues-in-sri-lanka-s-current-debacle#:~:text=This%20paper%20discusses%20six%20key,the%20downfall%20of%20the%20tourism).
+(2) Observer Research Foundation - [link](https://www.orfonline.org/research/understanding-the-economic-issues-in-sri-lanka-s-current-debacle#:~:text=This%20paper%20discusses%20six%20key,the%20downfall%20of%20the%20tourism)
 
-(3) CNN - [](https://www.cnn.com/2022/04/05/asia/sri-lanka-economic-crisis-explainer-intl-hnk/index.html).
+(3) CNN - [link](https://www.cnn.com/2022/04/05/asia/sri-lanka-economic-crisis-explainer-intl-hnk/index.html)
 
-(4) BBC - [](https://www.bbc.com/news/world-61028138).
+(4) BBC - [link](https://www.bbc.com/news/world-61028138)
 
-(5) Aljazeera - [](https://www.aljazeera.com/economy/2022/4/28/how-a-powerful-dynasty-bankrupted-sri-lanka-in-30-months).
+(5) Aljazeera - [link](https://www.aljazeera.com/economy/2022/4/28/how-a-powerful-dynasty-bankrupted-sri-lanka-in-30-months)
 
-(6) Government of Canada - [](https://www.international.gc.ca/country_news-pays_nouvelles/2023-01-06-sri_lanka.aspx?lang=eng).
+(6) Government of Canada - [link](https://www.international.gc.ca/country_news-pays_nouvelles/2023-01-06-sri_lanka.aspx?lang=eng)
 
 
 
