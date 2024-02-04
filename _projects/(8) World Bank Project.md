@@ -76,7 +76,7 @@ Before I could work on the data I wanted to know what kind of projects did World
 
 7) PRSC: Poverty Reduction Strategy Credit.
 
-And there are subprojects completed in phases which are well described in the dataset. Then I began finding insights. There are over 100 countries and I cannot possibly analyze all countries at once. So, I quickly narrowed down which countries are actually in debt by using following code:
+And there are subprojects completed in phases which are well described in the dataset. Then I began finding insights. There are over 100 countries and I cannot possibly analyze all countries at once. So, I quickly narrowed down which countries are actually in debt by using following code highlighting amount received and dues of each country:
 
 <script src="https://gist.github.com/Krishna1594/0d603c083ad97b57cdf3ad7f1854b1d2.js"></script>
 
@@ -114,13 +114,47 @@ I used the same idea to calculate the total amount disbursed to Sri Lanka for He
 
 Again, I used the same method to calculate the total amount disbursed to Sri Lanka for Transportation and Water Resource Management grant. The aid given by World Bank is **$530,386,252.94 US** and it is **10.16%** of total aid disbursed during the crisis.
 
-#### Climate Rreselience Grant
+#### Climate Resilience Grant
 
 For this sector, I noticed that one project is being wrongly included in the code so I had to exclude those kind of projects that don't fall under climate resilience grant. This issue occured because the same key word was present in one of the agricultural grant. Thus, I modified my code using "NOT LIKE":
 <script src="https://gist.github.com/Krishna1594/d24b7e96316692bc64e676d6b4ce83cf.js"></script>
 The grant sums up to **$210,573,277.14 US** which is **4.03%** of total aid disbursed during the crisis. 
 
 The total amount of the above mentioned grants is **$2,294,066,577.60 US** and these grants make-up about **43.93%** of total aid disbursed during the crisis.
+
+3) What are top projects in which World Bank helped Sri Lanka, based on original principal amount agreed?
+
+For this question, I wrote up a code using ORDER BY but with a LIMIT of 10 rows. I needed top 10 projects being undertaken by World Bank's aid. The code is as follows:
+<script src="https://gist.github.com/Krishna1594/bb9231c5771cb2cf6e5c6b0d31218f4a.js"></script>
+
+Output:
+![](https://i.postimg.cc/y6GrMFRB/top10.png)
+
+As we can see that most of the grants in this list are for financial growth, health, agriculture and transportation assistance.
+
+4) At what average interest did World Bank charge Sri Lanka?
+
+I used the following code and found out that the average interest at which the world bank granted loans is **1.51%** of the disbursed amount;
+<script src="https://gist.github.com/Krishna1594/85c75cfa90dbbae58ef415f94c32e818.js"></script>
+
+5) How much does Sri Lanka owe World bank?
+
+Out of **$5,221,628,055.05 US received from world bank, Sri Lanka still owes **$3,031,516,574.47 US till date which is **58.05%** of the disbursed amount.
+
+6) Which projects did Sri Lanka fully repaid and when?
+
+For this question, I utilized WHERE ... AND... clause together to narrow down fully repaid loans as per latest snapshot of the dataset.
+<script src="https://gist.github.com/Krishna1594/5b8f92051d0639907e60396c0ae917eb.js"></script>
+
+Output:
+![](https://i.postimg.cc/WbLb2JLL/repaid.png)
+
+The above result shows that Sri Lanka was able to repay its agricultural loans showing some kind of potential improvement in food supply.
+
+
+
+
+
 
 
 
