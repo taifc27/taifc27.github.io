@@ -75,7 +75,8 @@ MODIFY COLUMN Original_P_amt DOUBLE;
 
 Once I loaded the data, I saw that the data is a history of 
 
-{%- gist 9a8c206d4eac5a6df4463d017eb50b10#dataloadquery.sql %}
+<script src="https://gist.github.com/Krishna1594/9a8c206d4eac5a6df4463d017eb50b10.js"></script>
+
 
 Once I loaded my data, I saw that the data contains historical transactions and it gets updated frequently. The data may look like having duplicate rows but its just gets updated every month. So, I needed the data of latest update. I could extract latest update using the following code:
 
