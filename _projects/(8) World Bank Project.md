@@ -161,9 +161,7 @@ This concludes my analysis. Furthermore as I looked into the dataset, I found ou
 
 MySQL has proved to be very efficient in sorting, filtering and querying throughout this dataset. Actually, I was keen enough to look how much time MySQL took to import this data. It took 18.65 seconds to import whole dataset while all my queries were happeining in an instant, ~0.063 seconds.
 
-One feeling here is that, I can find a workaround and maybe reduce the length of codes and execution time here in the end. The best part of my analysis here was ALTER TABLE and UPDATE table clauses/indexes which helped me to sort and aggregate fields in the dataset. Without them, the results were ambigious. Indexing does improve the effeciency and reliability of the codess.
-
-There are lot of questions in my mind about how Sri Lanka in 2024 will cope ahead with massively unbelievable fluctuations of inflation rates; in 2022 ~45% inflation rate and then by September 2023 it dropped to 6.5% with all-time record low of 0.6% in December 2023. Further analysis can be done to analyze the expenditure and payments from each grant within the government of Sri Lanka. That would shred actual light on where they are lacking. 
+One feeling here is that, I can find a workaround and maybe reduce the length of codes and execution time here in the end. The best part of my analysis here was ALTER TABLE and UPDATE to index columns which helped me to sort and aggregate fields in the dataset. Without them, the results were ambigious. Indexing does improve the effeciency and reliability of the code.
 
 This project is avaiable on my Github profile. I am open to feedback and any suggestions that you think will help me in making this project better.
 
