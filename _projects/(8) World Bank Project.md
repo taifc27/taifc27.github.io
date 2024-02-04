@@ -39,10 +39,11 @@ I read a news flash around June 2022, world bank disbursed first aid to Sri Lank
 
 I had lot of questions regarding this data. The data actually has ~1.25 million rows and about 30 columns. Each row is either a credit or grant, in other words a transaction. Importing this data into excel will fail. I used MySQL. I used the follwoing code to load the dataset into my MySQL server:
 
-'''
+```
+# ---------------------------------------------------------------------------------
 SHOW VARIABLES LIKE 'secure_file_priv';
 GRANT FILE ON *.* TO root@localhost;
-# -------------------------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------
 USE worldbankdata;
 LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/IDA_Statement.csv' INTO TABLE ida_statements
   FIELDS TERMINATED BY ','
@@ -70,7 +71,9 @@ CHANGE COLUMN EOP_temp EOP DATETIME;
 # Update Tables with Double in required columns
 ALTER TABLE ida_statements
 MODIFY COLUMN Original_P_amt DOUBLE;
-'''
+```
+
+
 
 
 
