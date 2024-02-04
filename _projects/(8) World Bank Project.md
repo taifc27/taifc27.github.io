@@ -139,7 +139,7 @@ I used the following code and found out that the average interest at which the w
 
 5) How much does Sri Lanka owe World bank?
 
-Out of **$5,221,628,055.05 US received from world bank, Sri Lanka still owes **$3,031,516,574.47 US till date which is **58.05%** of the disbursed amount.
+Out of **$5,221,628,055.05 US received from world bank, Sri Lanka still owes **$3,031,516,574.47 US** till date which is **58.05%** of the disbursed amount.
 
 6) Which projects did Sri Lanka fully repaid and when?
 
