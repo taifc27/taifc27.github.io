@@ -25,11 +25,11 @@ Amidst these debt payments and tax cuts, the government faced shortages of fuel 
 
 ## 2021
 
-By April 2021,the goverment entirely banned use of chemical/synthetic fertilizers and the import of chemical fertilizers and forced farmers to use organic means of farming, this crippled rice and crop yields. The government failed to supply subsidies and money to farmers. Meeting food shortage demands from abroad costed them too much. The foreign debts of Sri Lanka in 2021 summed upto staggering ~$56.5 billion USD. One more severe flood struck in 2021 stranding many citizens.
+By April 2021 to reduce the drain of foreign reserves, the goverment entirely banned the imports and use of chemical/synthetic fertilizers which forced farmers to use organic means of farming, this crippled rice and crop yields. The government failed to supply subsidies and money to farmers. Meeting food shortage demands from abroad costed them too much. The foreign debts of Sri Lanka in 2021 summed upto staggering ~$56.5 billion USD. One more severe flood struck in 2021 stranding many citizens.
 
 ## 2022
 
-Sri Lanka announced it has defaulted in April 2022 on foreign trade with immense debt of $86.6 billion US of which $4.2 billion US is a debt to China, while its foreign reserves were mere US$1.9 billion. There is no money now. Mass resignations happened within his administration and there were no ministers to run the government or country. Civil unrest took place and the crisis became a world issue. Sri Lanka sought for help from foreign banks and neighbouring countries like India and China. India disbursed US$ 1 billion to help Sri Lanka fight its crisis. World Bank and IMF said yes to help Sri Lanka fight the economic crisis. By this time in July 2022, president Rajapaksa fled the country and resigned. Governements changed after political and citizens' anger in hopes to restoring some order. 
+Sri Lanka announced it has defaulted in April 2022 on foreign trade with immense debt of $86.6 billion US of which $4.2 billion US is a debt to China, while its foreign reserves were mere US$1.9 billion. Mass resignations happened within his administration and there were no ministers in the cabinet. Civil unrest at its worst and the crisis became a world issue. Sri Lanka sought for help from foreign banks and neighbouring countries like India and China. India disbursed US$ 1 billion to help Sri Lanka fight its crisis. World Bank and IMF said yes to help Sri Lanka fight the economic crisis. By this time in July 2022, president Rajapaksa fled the country and resigned. Governements changed after political and citizens' anger in hopes to restoring some order. 
 
 ## World Bank's Role
 
