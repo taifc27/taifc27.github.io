@@ -33,7 +33,7 @@ The nightmare, Sri Lanka announced it has defaulted in April 2022 on foreign tra
 
 ## World Bank's Role
 
-I read a news flash around June 2022, world bank disbursed first aid to Sri Lanka. Now, when I look back and after finding the dataset through Avery's bootcamp. I thought let me look into the data. I went to World Bank's official website and downloaded the updated dataset that includes the history of all credits and grants in world bank. Once can find the data ![here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data).
+I read a news flash around June 2022, world bank disbursed first aid to Sri Lanka. Now, when I look back and after finding the dataset through Avery's bootcamp. I thought let me look into the data. I went to World Bank's official website and downloaded the updated dataset that includes the history of all credits and grants in world bank. Once can find the data [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data).
 
 
 
