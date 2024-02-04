@@ -11,7 +11,7 @@ description: Conducted comprehensive financial analysis for the World Bank's aid
 
 Probably one of the worst economical crisis any country could face in the 21st century, it happened in Sri Lanka. Like a fusillade towards a building, the economy of Sri Lanka was taking heavy damage from debts and consequences of bad decisions. A price paid by the citizens of Sri Lanka.
 
-This didn't strongly seem to happen back in 2019 when Gotabaya Rajapaksa won the election with majority and became the President of Sri Lanka. People were celebrating and no one thought of an incoming wrath called 'consequences' and to push even further down into the abyss, a natural disaster.
+This didn't strongly seem to happen back in 2019 when Gotabaya Rajapaksa won the election with majority and became the President of Sri Lanka. People were celebrating and no one imagined an incoming crisis could fall upon them, and to push even further down into the abyss, a natural disaster.
 
 Imagine a ticking clock, inside the back of your mind.
 
