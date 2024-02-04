@@ -74,6 +74,13 @@ Result looks as follows
 I chose Sri Lanka, one of my (India) neighboring countries. I began answering my questions:
 
 1) How much did World Bank disburse in total to help Sri Lanka?
+I used the following code to extract the total amount World Bank has given to assist Sri Lanka:
+<script src="https://gist.github.com/Krishna1594/7909666c8266a2e475a076d0db32896b.js"></script>
+We can see that World Bank initially sought out to grant a sum of $6,410,673,836.57 US in total and actually disbursed a total of $5,221,628,055.05 US in phases to assist Sri Lanka.
+
+2) In what projects did they disburse and to provide a simple breakdown by sector?
+For this question, I learnt what the projects are and was able to break down based on sectors: Economic and Finance, Agriculture, Health, Transportation & Water Resources and Climate. I think these are the once that Sri Lanka really needs and other grants include for the Urban and Rural Development, Education, 
+
 
 
 
