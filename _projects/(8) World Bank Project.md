@@ -13,27 +13,27 @@ Probably one of the worst economical crisis any country could face in the 21st c
 
 This didn't strongly seem to happen back in 2019 when Gotabaya Rajapaksha won the election with majority and became the President of Sri Lanka. People were celebrating and no one thought of an incoming wrath called 'consequences' and to push even further down into the abyss, a natural disaster.
 
-Imagine a ticking clock in seconds, inside the back of your mind.
+Imagine a ticking clock, inside the back of your mind.
 
 ## 2019
 
-While the country was still grieving from its loss of 250 citizens from terrorists attacks in mid April 2019, elections took place and Gotabaya Rajapaksha became The President of Sri Lanka while he was facing allegations of corruption, human rights violation and torture, who also happens to end the 26 year old civil war of Sri Lanka and pushed the country into heavy debt to China. That polarized result divided Sinhala buddhist communities and other minorities in Sri Lanka. President Gotabaya during the election win-day said, "I would like to inform you that I will execute everything you trusted in me to do". In his first cabinet meeting, he reduced tax cuts with low interest rates and pursued to become the most influential family in Sri Lanka. The taxpayers took a massive hit when the GDP of Sri Lanka fell down (the Tax-GDP ratio didn't support) and country's debt to China's hegemony was too much to bear. In the end, GDP-debt ratio was unbearable.
+While the country was still grieving from its loss of 250 citizens from terrorists attacks in mid April 2019, elections took place and Gotabaya Rajapaksha became The President of Sri Lanka while he was facing allegations of corruption, human rights violation and torture, who also happens to end the 26 year old civil war of Sri Lanka and pushed the country into heavy debt to China. President Gotabaya during the election win-day said, "I would like to inform you that I will execute everything you trusted in me to do". In his first cabinet meeting, he reduced tax cuts with low interest rates and pursued to become the most influential family in Sri Lanka. The taxpayers took a massive hit when the GDP of Sri Lanka fell down (the Tax-GDP ratio didn't support) and country's debt to China's hegemony was too much to bear. In the end, GDP-debt ratio was unbearable.
 
 ## 2020
 
-Amidst this debt payments and tax cuts, the government faced shortages of money and soon consequences followed in the form of shortage of fuel and then came COVID. Tourism got shattered, imports and exports entirely came to a halt, this made the lives of citizens much worse and COVID spread increased health costs. Sri Lanka was running out of federal reserves very quickly. Let me remind you that, Sri lankan rupee is pegged to US dollar. This COVID and forced closure of borders further plunged the economy down. Soon after the lift of first lockdown, Rajapaksha's government decided to cut down costs by initiating a ban on the import of chemical fertilizers and to become an organic farming country, which he did promise during his campaign. This decision was an unimaginable blow to the country. There wasn't enough money to feed his citizens let alone buy and provide the technology to farmers to begin organic farming. The ban of chemical fertlizers from abroad lowered the rice production and then came shortage of food. Farmers started using local fertilizers. By this point the inflation started to increase, reaching 6.15% in 2020. Further COVID lockdowns hampered the flow of currency and drained the federal reserves. Parts of Sri Lanka then faced immense flooding for weeks in the end of the year destorying homes, agricultural fields and infrastructure. Power Outages became more frequent.
+Amidst this debt payments and tax cuts, the government faced shortages of money and soon consequences followed in the form of shortage of fuel and then came COVID. Tourism got shattered, imports and exports entirely came to a halt, this made the lives of citizens much worse and COVID-spread increased health costs. Sri Lanka was running out of federal reserves very quickly. Let me remind you that, Sri lankan rupee is pegged to US dollar. This COVID and forced closure of borders from all countries further plunged the economy down. Soon after the lift of first lockdown, Rajapaksha's government decided to cut down costs by initiating a ban on the import of chemical fertilizers and to become an organic farming country, which he did promise during his campaign. This decision was an unimaginable blow to the country. There wasn't enough money to feed his citizens let alone buy and provide the technology to farmers to begin organic farming. The ban of chemical fertlizers from abroad lowered the rice production and then came shortage of food. Farmers started using local fertilizers. Parts of Sri Lanka then faced immense flooding for weeks in the end of the year destorying homes, agricultural fields and infrastructure. Power Outages became more frequent.
 
 ## 2021
 
-By April 2021, president Rajapaksha entirely banned use of chemical/synthetic fertilizers and forced farmers to use organic means of farming, this worsened the crop yield and crippled the rice production. Rajapaksha's government failed to supply subsidies and money to farmers. Meeting food shortage demands from abroad costed them too much. The foreign debts of Sri Lanka in 2021 summed upto staggering ~$56.5 billion USD. One more severe flood struck in 2021 stranding many citizens and loss of life. Shortage of food and fuel became a reality.
+By April 2021, president Gotabaya Rajapaksha entirely banned use of chemical/synthetic fertilizers and forced farmers to use organic means of farming, this worsened the crop yield and crippled the rice production. Rajapaksha's government failed to supply subsidies and money to farmers. Meeting food shortage demands from abroad costed them too much. The foreign debts of Sri Lanka in 2021 summed upto staggering ~$56.5 billion USD. One more severe flood struck in 2021 stranding many citizens and loss of life.
 
 ## 2022
 
-The nightmare, Sri Lanka announced it has defaulted in April 2022 on foreign trade with immense debt of $86.6 billion of which $4.2 billion is to China while its foreign reserves were mere US$1.9 billion. There is now no money. Mass resignations happened within his administration and there were no ministers to run the government or country. Civil unrest took place and the crisis became world issue. Sri Lanka sought out help from foreign banks and neighbouring countries like India and China. India disbursed US$ 1 billion to help Sri Lanka fight its crisis. World Bank and IMF said yes to help Sri Lanka fight the economic crisis. By this time in July 2022 Rajapaksha fled the country and resigned. Governements changed after political and citizens' anger. 
+The nightmare, Sri Lanka announced it has defaulted in April 2022 on foreign trade with immense debt of $86.6 billion US of which $4.2 billion US is a debt to China, while its foreign reserves were mere US$1.9 billion. There is now no money. Mass resignations happened within his administration and there were no ministers to run the government or country. Civil unrest took place and the crisis became world issue. Sri Lanka sought out help from foreign banks and neighbouring countries like India and China. India disbursed US$ 1 billion to help Sri Lanka fight its crisis. World Bank and IMF said yes to help Sri Lanka fight the economic crisis. By this time in July 2022 Rajapaksha fled the country and resigned. Governements changed after political and citizens' anger in hopes to restoring some order. 
 
 ## World Bank's Role
 
-I read a news flash around June 2022, world bank disbursed first aid to Sri Lanka. Now, when I look back and after finding the dataset through Avery's bootcamp. I thought let me look into the data. I went to World Bank's official website and downloaded the updated dataset that includes the history of all credits and grants in world bank. One can find the dataset [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data). The data also has meta data/description of each column such as End of Period, Country, Original Principal Amount, Project Name, Project ID, Credit Number, Credit Status etc.
+I read a news flash around June 2022, world bank disbursed first aid to Sri Lanka. Now, when I look back and after finding the dataset through Avery's bootcamp. I thought let me look into this crisis. I went to World Bank's official website and downloaded the updated dataset that includes the history of all credits and grants in world bank. One can find the dataset [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data). The data also has meta data/description of each column such as End of Period, Country, Original Principal Amount, Project Name, Project ID, Credit Number, Credit Status etc.
 
 ### The Analysis
 
@@ -94,7 +94,7 @@ We can see that World Bank initially sought out to grant a sum of **$6,410,673,8
 
 2) In what projects did they disburse and to provide a simple breakdown by sector?
 
-For this question, I learnt what the projects are and was able to break down based on sectors: Economic and Finance, Agriculture, Health, Transportation & Water Resources and Climate Resilience. Sri Lanka requested other grants for the Urban and Rural Development, Education, social and environment protection. Based on the above briefing before my analysis, following are my findings.
+For this question, I learnt what the projects are and was able to break down based on sectors: Economic and Finance, Agriculture, Health, Transportation & Water Resources and Climate Resilience. Sri Lanka requested other grants for the Urban and Rural Development, Power, Education, social and environment protection. Based on the above briefing before my analysis, following are my findings.
 
 #### Econominc & Finance Assistance
 
@@ -153,9 +153,35 @@ The above result shows that Sri Lanka was able to repay its agricultural loans s
 
 Now that my analysis is complete, I can use the following code to expunge my temporary table which I created initially for this analysis. I saved this whole script first and then dropped my table using,
 ```mysql
-DROP TEMPORARY TABLE Latest
+DROP TEMPORARY TABLE Latest;
 ```
 This concludes my analysis. Furthermore as I looked into the dataset, I found out that the government is actively repaying and it has received USD 500 million from India as an extended credit line for fuel purposes and Canada sent $3 million USD to help communities in Sri Lanka.
+
+## Conclusion
+
+MySQL has proved to be very efficient in sorting, filtering and querying throughout this dataset. Actually, I was keen enough to look how much time MySQL took to import this data. It took 18.65 seconds to import whole dataset while all my queries were happeining in an instant, ~0.063 seconds.
+
+One feeling here is that, I can find a workaround and maybe reduce the length of codes and execution time here in the end. The best part of my analysis here was ALTER TABLE and UPDATE table clauses/indexes which helped me to sort and aggregate fields in the dataset. Without them, the results were ambigious. Indexing does improve the effeciency and reliability of the codess.
+
+There are lot of questions in my mind about how Sri Lanka in 2024 will cope ahead with massively unbelievable fluctuations of inflation rates; in 2022 ~45% inflation rate and then by September 2023 it dropped to 6.5% with all-time record low of 0.6% in December 2023. Further analysis can be done to analyze the expenditure and payments from each grant within the government of Sri Lanka. That would shred actual light on where they are lacking. 
+
+## Sources
+
+Data: World Bank - ![here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data).
+
+(1) World Bank - ![](https://projects.worldbank.org/en/projects-operations/projects-summary?lang=en&countrycode_exact=LK).
+
+(2) Observer Research Foundation - ![](https://www.orfonline.org/research/understanding-the-economic-issues-in-sri-lanka-s-current-debacle#:~:text=This%20paper%20discusses%20six%20key,the%20downfall%20of%20the%20tourism).
+
+(3) CNN - ![](https://www.cnn.com/2022/04/05/asia/sri-lanka-economic-crisis-explainer-intl-hnk/index.html).
+
+(4) BBC - ![](https://www.bbc.com/news/world-61028138).
+
+(5) Aljazeera - ![](https://www.aljazeera.com/economy/2022/4/28/how-a-powerful-dynasty-bankrupted-sri-lanka-in-30-months).
+
+(6) Government of Canada - ![](https://www.international.gc.ca/country_news-pays_nouvelles/2023-01-06-sri_lanka.aspx?lang=eng).
+
+
 
 
 
