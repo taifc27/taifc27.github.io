@@ -47,20 +47,33 @@ Once I loaded my data, I saw that the data contains historical transactions and 
 <script src="https://gist.github.com/Krishna1594/ac5df96be7e61c1faa4003a6b41d8790.js"></script>
 
 Now, my data is loaded into MySQL database properly and I renamed my columns for ease of access. I began my analysis by asking follwoing questions:
+
 1) How much did World Bank disburse in total to help Sri Lanka?
+
 2) In what projects did they disburse and to provide a simple breakdown by sector?
+
 3) What are top projects in which World Bank helped Sri Lanka, based on original principal amount agreed?
+
 4) At what average interest did World Bank charge Sri Lanka?
+
 5) How much does Sri Lanka owe World bank?
+
 6) Which projects did Sri Lanka fully repaid and when?
 
 Before I could work on the data I wanted to know what kind of projects did World Bank came up with to help Sri Lanka. I did some research and got to know the following project names and abbreviations:
+
 1) KMTT: Kandy Multimodal Transport Terminal. A transportation development project.
+
 2) IWWRMP: Integrated Watershed and Water Resources Management Project. A water resource project.
+
 3) DFCC: Development Finance Coporation of Ceylon. A finance assistance project.
+
 4) IDP: Industrial Economic Development Project and Support.
+
 5) ERCPMEA: Economic Restructuring Credit and Public Manufacturing Enterprises Adjustments Credit Projects.
+
 6) RERED: Renewable Energy for Rural Economic Development Project
+
 7) PRSC: Poverty Reduction Strategy Credit.
 
 And there are subprojects completed in phases which are well described in the dataset. Then I began finding insights. There are over 100 countries and I cannot possibly analyze all countries at once. So, I quickly narrowed down which countries are actually in debt by using following code:
@@ -74,28 +87,35 @@ Result looks as follows
 I chose Sri Lanka, one of my (India) neighboring countries. I began answering my questions:
 
 1) How much did World Bank disburse in total to help Sri Lanka?
+
 I used the following code to extract the total amount World Bank has given to assist Sri Lanka:
 <script src="https://gist.github.com/Krishna1594/7909666c8266a2e475a076d0db32896b.js"></script>
 We can see that World Bank initially sought out to grant a sum of **$6,410,673,836.57 US** in total and actually disbursed a total of **$5,221,628,055.05 US** in phases to assist Sri Lanka.
 
 2) In what projects did they disburse and to provide a simple breakdown by sector?
+
 For this question, I learnt what the projects are and was able to break down based on sectors: Economic and Finance, Agriculture, Health, Transportation & Water Resources and Climate Resilience. Sri Lanka requested other grants for the Urban and Rural Development, Education, social and environment protection. Based on the above briefing before my analysis, following are my findings.
 
 #### Econominc & Finance Assistance
+
 In this dataset, there are lot of transactions per project and project name has some keywords. I tried to filter appropriate projects based on key words but also making sure they fall under respective grants which I mentioned earlier in terms of projects and their abrreviations. Thus, I wrote it as:
 <script src="https://gist.github.com/Krishna1594/94f8f106e916a6a73b2d5ee7725262c4.js"></script>
 This gave me the total Economic & Finance aid for Sri Lanka's projetcs given by World Bank, which is **$633,935,207.48 US**. This is around **12.14%** of total aid disbursed to Sri Lanka.
 
 #### Agriculture
+
 Similarly, I used the same idea to calculate the total amount disbursed to Sri Lanka for Agricultural aid. The aid given by World Bank is **$423,864,727.89 US** and it is **8.12%** of total aid disbursed during the crisis.
 
 #### Health
+
 I used the same idea to calculate the total amount disbursed to Sri Lanka for Health aid. The aid given by World Bank is **$495,307,112.15 US** and it is **9.49%** of total aid disbursed during the crisis. 
 
 #### Transportation & Water Resources Aid
+
 Again, I used the same method to calculate the total amount disbursed to Sri Lanka for Transportation and Water Resource Management grant. The aid given by World Bank is **$530,386,252.94 US** and it is **10.16%** of total aid disbursed during the crisis.
 
 #### Climate Rreselience Grant
+
 For this sector, I noticed that one project is being wrongly included in the code so I had to exclude those kind of projects that don't fall under climate resilience grant. This issue occured because the same key word was present in one of the agricultural grant. Thus, I modified my code using "NOT LIKE":
 <script src="https://gist.github.com/Krishna1594/d24b7e96316692bc64e676d6b4ce83cf.js"></script>
 The grant sums up to **$210,573,277.14 US** which is **4.03%** of total aid disbursed during the crisis. 
