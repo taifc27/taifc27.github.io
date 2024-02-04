@@ -75,7 +75,9 @@ MODIFY COLUMN Original_P_amt DOUBLE;
 
 Once I loaded the data, I saw that the data is a history of 
 
-https://gist.github.com/Krishna1594/9a8c206d4eac5a6df4463d017eb50b10/dataloadquery.sql
+https://gist.github.com/Krishna1594/9a8c206d4eac5a6df4463d017eb50b10#dataloadquery.sql
+
+
 
 jk
 
