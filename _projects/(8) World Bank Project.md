@@ -149,8 +149,13 @@ For this question, I utilized WHERE ... AND... clause together to narrow down fu
 Output:
 ![](https://i.postimg.cc/WbLb2JLL/repaid.png)
 
-The above result shows that Sri Lanka was able to repay its agricultural loans showing some kind of potential improvement in food supply.
+The above result shows that Sri Lanka was able to repay its agricultural loans showing some kind of potential improvement in food supply. I noticed that the first grant was made during June 2022 and Sri Lanka repaid these grants by August 2022. That is commendable. The policies and the agreements between Sri Lanka and World Bank proved to be fruitful in this mannaer.
 
+Now that my analysis is complete, I can use the following code to expunge my temporary table which I created initially for this analysis. I saved this whole script first and then dropped my table using,
+```mysql
+DROP TEMPORARY TABLE Latest
+```
+This concludes my analysis. Furthermore as I looked into the dataset, I found out that the government is actively repaying and it has received USD 500 million from India as an extended credit line for fuel purposes and Canada sent $3 million USD to help communities in Sri Lanka.
 
 
 
