@@ -33,52 +33,48 @@ The nightmare, Sri Lanka announced it has defaulted in April 2022 on foreign tra
 
 ## World Bank's Role
 
-I read a news flash around June 2022, world bank disbursed first aid to Sri Lanka. Now, when I look back and after finding the dataset through Avery's bootcamp. I thought let me look into the data. I went to World Bank's official website and downloaded the updated dataset that includes the history of all credits and grants in world bank. One can find the dataset [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data).
+I read a news flash around June 2022, world bank disbursed first aid to Sri Lanka. Now, when I look back and after finding the dataset through Avery's bootcamp. I thought let me look into the data. I went to World Bank's official website and downloaded the updated dataset that includes the history of all credits and grants in world bank. One can find the dataset [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data). The data also has meta data/description of each column such as End of Period, Country, Original Principal Amount, Project Name, Project ID, Credit Number, Credit Status etc.
 
 ### The Analysis
 
-I had lot of questions regarding this data. The data actually has ~1.25 million rows and about 30 columns. Each row is either a credit or grant, in other words a transaction. Importing this data into excel will fail. I used MySQL. I used the follwoing code to load the dataset into my MySQL server:
-
-```mysql
-# ---------------------------------------------------------------------------------
-SHOW VARIABLES LIKE 'secure_file_priv';
-GRANT FILE ON *.* TO root@localhost;
-# ---------------------------------------------------------------------------------
-USE worldbankdata;
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/IDA_Statement.csv' INTO TABLE ida_statements
-  FIELDS TERMINATED BY ','
-  ENCLOSED BY '"'   -- Enclosed by double quotes
-  LINES TERMINATED BY '\r\n'
-  IGNORE 1 LINES;
-
-# Making changes to EOP column: Formatting as Datetime  
-#-- Step 1: Add a new column to temporarily store the converted datetime values
-ALTER TABLE ida_statements
-ADD COLUMN EOP_temp DATETIME;
-
-#-- Step 2: Update the new column with the converted datetime values
-UPDATE ida_statements
-SET EOP_temp = STR_TO_DATE(EOP, '%m/%d/%Y %H:%i');
-
-#-- Step 3: Drop the original varchar column
-ALTER TABLE ida_statements
-DROP COLUMN EOP;
-
-#-- Step 4: Rename the temporary column to the original column name
-ALTER TABLE ida_statements
-CHANGE COLUMN EOP_temp EOP DATETIME;
-
-# Update Tables with Double in required columns
-ALTER TABLE ida_statements
-MODIFY COLUMN Original_P_amt DOUBLE;
-```
-
-Once I loaded the data, I saw that the data is a history of 
+I had lot of questions regarding this data. The data actually has ~1.25 million rows and about 30 columns. Each row is either a credit or grant, in other words a transaction. Importing this data into excel will make life harder. I used MySQL instead. I used the follwoing code to load the dataset into my MySQL server:
 
 <script src="https://gist.github.com/Krishna1594/9a8c206d4eac5a6df4463d017eb50b10.js"></script>
 
 
 Once I loaded my data, I saw that the data contains historical transactions and it gets updated frequently. The data may look like having duplicate rows but its just gets updated every month. So, I needed the data of latest update. I could extract latest update using the following code:
+
+<script src="https://gist.github.com/Krishna1594/ac5df96be7e61c1faa4003a6b41d8790.js"></script>
+
+Now, my data is loaded into MySQL database properly and I renamed my columns for ease of access. I began my analysis by asking follwoing questions:
+1) How much did World Bank disburse in total to help Sri Lanka?
+2) In what projects did they disburse and to provide a simple breakdown by sector?
+3) What are top projects in which World Bank helped Sri Lanka, based on original principal amount agreed?
+4) At what average interest did World Bank charge Sri Lanka?
+5) How much does Sri Lanka owe World bank?
+6) Which projects did Sri Lanka fully repaid and when?
+
+Before I could work on the data I wanted to know what kind of projects did World Bank came up with to help Sri Lanka. I did some research and got to know the following project names and abbreviations:
+1) KMTT: Kandy Multimodal Transport Terminal. A transportation development project.
+2) IWWRMP: Integrated Watershed and Water Resources Management Project. A water resource project.
+3) DFCC: Development Finance Coporation of Ceylon. A finance assistance project.
+4) IDP: Industrial Economic Development Project and Support.
+5) ERCPMEA: Economic Restructuring Credit and Public Manufacturing Enterprises Adjustments Credit Projects.
+6) RERED: Renewable Energy for Rural Economic Development Project
+7) PRSC: Poverty Reduction Strategy Credit.
+
+And there are subprojects completed in phases which are well described in the dataset. Then I began finding insights. There are over 100 countries and I cannot possibly analyze all countries at once. So, I quickly narrowed down which countries are actually in debt by using following code:
+
+<script src="https://gist.github.com/Krishna1594/0d603c083ad97b57cdf3ad7f1854b1d2.js"></script>
+
+Result looks as follows
+
+![](https://i.postimg.cc/rFyKLkCS/result1.png) 
+
+I chose Sri Lanka, one of my (India) neighboring countries. I began answering my questions:
+
+1) How much did World Bank disburse in total to help Sri Lanka?
+
 
 
 
