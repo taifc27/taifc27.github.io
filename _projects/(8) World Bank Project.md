@@ -35,6 +35,43 @@ The nightmare, Sri Lanka announced it has defaulted in April 2022 on foreign tra
 
 I read a news flash around June 2022, world bank disbursed first aid to Sri Lanka. Now, when I look back and after finding the dataset through Avery's bootcamp. I thought let me look into the data. I went to World Bank's official website and downloaded the updated dataset that includes the history of all credits and grants in world bank. One can find the dataset [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data).
 
+### The Analysis
+
+I had lot of questions regarding this data. The data actually has ~1.25 million rows and about 30 columns. Each row is either a credit or grant, in other words a transaction. Importing this data into excel will fail. I used MySQL. I used the follwoing code to load the dataset into my MySQL server:
+
+'''
+SHOW VARIABLES LIKE 'secure_file_priv';
+GRANT FILE ON *.* TO root@localhost;
+# -------------------------------------------------------------------------------------------------
+USE worldbankdata;
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/IDA_Statement.csv' INTO TABLE ida_statements
+  FIELDS TERMINATED BY ','
+  ENCLOSED BY '"'   -- Enclosed by double quotes
+  LINES TERMINATED BY '\r\n'
+  IGNORE 1 LINES;
+
+# Making changes to EOP column: Formatting as Datetime  
+#-- Step 1: Add a new column to temporarily store the converted datetime values
+ALTER TABLE ida_statements
+ADD COLUMN EOP_temp DATETIME;
+
+#-- Step 2: Update the new column with the converted datetime values
+UPDATE ida_statements
+SET EOP_temp = STR_TO_DATE(EOP, '%m/%d/%Y %H:%i');
+
+#-- Step 3: Drop the original varchar column
+ALTER TABLE ida_statements
+DROP COLUMN EOP;
+
+#-- Step 4: Rename the temporary column to the original column name
+ALTER TABLE ida_statements
+CHANGE COLUMN EOP_temp EOP DATETIME;
+
+# Update Tables with Double in required columns
+ALTER TABLE ida_statements
+MODIFY COLUMN Original_P_amt DOUBLE;
+'''
+
 
 
 
