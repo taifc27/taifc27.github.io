@@ -73,7 +73,7 @@ ALTER TABLE ida_statements
 MODIFY COLUMN Original_P_amt DOUBLE;
 ```
 
-Once I loaded the data I saw that the data is a history of 
+Once I loaded the data, I saw that the data is a history of 
 
 {% gist 3c466bc3c32c4ae5c9b36d1266b913d8 dataloadquery.sql %}
 
