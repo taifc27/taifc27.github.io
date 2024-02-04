@@ -21,7 +21,7 @@ While the country was still grieving from its loss of 250 citizens from terroris
 
 ## 2020
 
-Amidst this debt payments and tax cuts, the government faced shortages of money and soon consequences followed in the form of shortage of fuel and then came COVID. Tourism got shattered, imports and exports entirely came to a halt, this made the lives of citizens much worse and COVID-spread increased health costs. Sri Lanka was running out of federal reserves very quickly. Let me remind you that, Sri lankan rupee is pegged to US dollar. This COVID and forced closure of borders from all countries further plunged the economy down. Soon after the lift of first lockdown, Rajapaksha's government decided to cut down costs by initiating a ban on the import of chemical fertilizers and to become an organic farming country, which he did promise during his campaign. This decision was an unimaginable blow to the country. There wasn't enough money to feed his citizens let alone buy and provide the technology to farmers to begin organic farming. The ban of chemical fertlizers from abroad lowered the rice production and then came shortage of food. Farmers started using local fertilizers. Parts of Sri Lanka then faced immense flooding for weeks in the end of the year destorying homes, agricultural fields and infrastructure. Power Outages became more frequent.
+Amidst this debt payments and tax cuts, the government faced shortages of money and soon consequences followed in the form of shortage of fuel and then came COVID. Tourism got shattered, imports and exports entirely came to a halt, this made the lives of citizens much worse and COVID-spread increased health costs. Sri Lanka was running out of federal reserves very quickly.  This COVID and forced closure of borders from all countries further plunged the economy down. Soon after the lift of first lockdown, Rajapaksha's government decided to cut down costs by initiating a ban on the import of chemical fertilizers and to become an organic farming country, which he did promise during his campaign. This decision was an unimaginable blow to the country. There wasn't enough money to feed his citizens let alone buy and provide the technology to farmers to begin organic farming. The ban of chemical fertlizers from abroad lowered the rice production and then came shortage of food. Parts of Sri Lanka then faced immense flooding for weeks in the end of the year destorying homes, agricultural fields and infrastructure. Power Outages became more frequent.
 
 ## 2021
 
@@ -167,19 +167,19 @@ There are lot of questions in my mind about how Sri Lanka in 2024 will cope ahea
 
 ## Sources
 
-Data: World Bank - ![here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data).
+Data: World Bank - [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data).
 
-(1) World Bank - ![](https://projects.worldbank.org/en/projects-operations/projects-summary?lang=en&countrycode_exact=LK).
+(1) World Bank - [](https://projects.worldbank.org/en/projects-operations/projects-summary?lang=en&countrycode_exact=LK).
 
-(2) Observer Research Foundation - ![](https://www.orfonline.org/research/understanding-the-economic-issues-in-sri-lanka-s-current-debacle#:~:text=This%20paper%20discusses%20six%20key,the%20downfall%20of%20the%20tourism).
+(2) Observer Research Foundation - [](https://www.orfonline.org/research/understanding-the-economic-issues-in-sri-lanka-s-current-debacle#:~:text=This%20paper%20discusses%20six%20key,the%20downfall%20of%20the%20tourism).
 
-(3) CNN - ![](https://www.cnn.com/2022/04/05/asia/sri-lanka-economic-crisis-explainer-intl-hnk/index.html).
+(3) CNN - [](https://www.cnn.com/2022/04/05/asia/sri-lanka-economic-crisis-explainer-intl-hnk/index.html).
 
-(4) BBC - ![](https://www.bbc.com/news/world-61028138).
+(4) BBC - [](https://www.bbc.com/news/world-61028138).
 
-(5) Aljazeera - ![](https://www.aljazeera.com/economy/2022/4/28/how-a-powerful-dynasty-bankrupted-sri-lanka-in-30-months).
+(5) Aljazeera - [](https://www.aljazeera.com/economy/2022/4/28/how-a-powerful-dynasty-bankrupted-sri-lanka-in-30-months).
 
-(6) Government of Canada - ![](https://www.international.gc.ca/country_news-pays_nouvelles/2023-01-06-sri_lanka.aspx?lang=eng).
+(6) Government of Canada - [](https://www.international.gc.ca/country_news-pays_nouvelles/2023-01-06-sri_lanka.aspx?lang=eng).
 
 
 
