@@ -163,7 +163,7 @@ MySQL has proved to be very efficient in sorting, filtering and querying through
 
 One feeling here is that, I can find a workaround and maybe reduce the length of codes and execution time here in the end. The best part of my analysis here was ALTER TABLE and UPDATE to format and index columns which helped me to sort and aggregate fields in the dataset. Without them, the results were ambigious. Indexing does improve the effeciency and reliability of the code.
 
-This project is avaiable on my Github profile. I am open to feedback and any suggestions that you think will help me in making this project better.
+This project is avaiable on my Github profile through [here](https://github.com/Krishna1594/World-Bank-Role-in-Sri-Lanka-Economic-Meltdown). I am open to feedback and any suggestions that you think will help me in making this project better.
 
 ## Sources
 
