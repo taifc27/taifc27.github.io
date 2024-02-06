@@ -1,7 +1,7 @@
 ---
-name: Products
+name: King County House Sales
 tools: [Tableau, Data Analysis]
-image: [https://www.datascienceportfol.io/static/profile_pics/pr5_45748C1CF13050721501.png]
-description: Analyzed GHG emissions and Tree Cover Losses from more than 200 countries. Solely scraped data from various government web sources and reports to perform analysis & created an interactive dashboard in Tableau.
-external_url: [https://public.tableau.com/app/profile/krishna.n.bharatula/viz/GlobalCO2EmissionsandTreeCoverLoss/Dashboard1]
+image: [https://i.postimg.cc/05LZRpD5/King-County.webp]
+description: The project provided comprehensive insights into the house sales performance of King County, Washington using Tableau. 
+external_url: [https://public.tableau.com/views/KingCountyHouseSales_17070029329500/KingCountyHouseSales?:language=pt-BR&:display_count=n&:origin=viz_share_link]
 ---
