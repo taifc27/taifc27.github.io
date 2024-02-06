@@ -1,7 +1,7 @@
 ---
-name: Unveiling Massachusetts Schools - A Quick look
-tools: [Tableau, Data Analysis, Data Visualization]
-image: [https://i.postimg.cc/T1bBLDWv/pro.png]
-description: Created interactive Dashboard in Tableau highlighting key performance metrics for 1,800+ of Massachusetts school systems allowing at-a-glance understanding of the entire program.
-external_url: [https://public.tableau.com/app/profile/krishna.n.bharatula/viz/FullMassachusettsSchoolProject-Dash/Dashboard1]
+name: Customer & Order Analytics
+tools: [Data Analysis, Statistics]
+#image: [https://i.postimg.cc/T1bBLDWv/pro.png]
+description: Analyzed and quantified statistics about customer and order data.
+external_url: [https://github.com/taifc27/SQL/blob/main/Customer%20and%20Order%20Analytics]
 ---
