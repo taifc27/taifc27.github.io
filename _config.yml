@@ -1,10 +1,7 @@
 ### Site Settings ###
-title               : Krishna N Bharatula
+title               : Taina Fernandes
 description         : >-
-                      Energy professional👷🛢️with a flair for data analysis📊, 
-                      blending industry acumen with a passion for insights. 
-                      Beyond the field, I indulge in astrophotography🔭,
-                      PC games🎮 and shuttle badminton🏸.
+                      Data Analyst
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : Krishna1594/Krishna1594.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -30,14 +27,14 @@ author:
   image             : https://i.postimg.cc/DZZCsbHY/krishnanb.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : krishnanischal@hotmail.com
+  email             : tainafernandesc27@gmail.com
 # facebook          : your_username
-  github            : Krishna1594
+  github            : taifc27
 # gitlab            : your_username
 # instagram         : krishna_nic
 # kaggle            : your_username
-  linkedin          : krishna-nischal-bharatula
-  medium            : krishnanischal
+  linkedin          : tainafernandesc
+# medium            : krishnanischal
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
