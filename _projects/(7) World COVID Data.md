@@ -21,7 +21,7 @@ I in-fact did an amazing job!
 
 ## The Dashboard
 
-![preview](https://i.postimg.cc/BbbnVJLY/Screenshot-2024-01-18-192909.png)
+![preview]()
 
 <p class="text-center">
 {% include elements/button.html link="https://www.linkedin.com/pulse/unleashing-flavorful-insights-excel-ed-delivery-bharatula-677ac?trk=public_post_feed-article-content" text="Learn More" %}
