@@ -1,4 +1,5 @@
---- name: World Happiness
+--- 
+name: World Happiness
 tools: [Tableau, Data Analysis]
 image: [https://i.postimg.cc/g0FpFGXJ/World-Happiness.jpg]
 description: Created a dashboard on tableau using world happiness data.
