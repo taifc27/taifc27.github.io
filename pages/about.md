@@ -15,7 +15,7 @@ The first time I heard about data was in 2022 and since then I have been fascina
 “It is a capital mistake to theorize before one has data.” - Sherlock Holmes. 
 This pearl of wisdom comes from one of the most famous fictional detectives in history, and emphasizes the importance of using data to drive smart decisions. Data analysts are like detectives, trying to solve a case by analyzing, investigating, inquiring and querying, to arrive at an accurate result through data-driven decision-making.
 
-With a curious mind, a keen eye for detail and a passion for solving problems to bring meaningful insights, I am excited to become a data analyst and stay updated with the new tools and techniques which are emeging regularly.
+With a curious mind, a keen eye for detail and a passion for solving problems to bring meaningful insights, I am excited to become a data analyst and stay updated with the new tools and techniques which are emerging regularly.
 
 <div class="row">
 {% include about/timeline.html %}
